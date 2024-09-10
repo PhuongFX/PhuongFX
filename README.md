@@ -25,10 +25,14 @@ Deep Learning
 Natural Language Processing
 [██▒▒▒▒▒▒▒](https://github.com/your-username) 10%
 
+Translation [██████████](https://github.com/your-username)    Text2Text generation [█▒▒▒▒▒▒▒▒](https://github.com/your-username) 
 
-Automatic Speech Recognition [█████████▒](https://github.com/your-username) Speech2Text generation [███▒▒▒▒▒▒](https://github.com/your-username) 30%
+Audio 
+[███▒▒▒▒▒▒](https://github.com/your-username) 30%
 
-Translation [██████████](https://github.com/your-username) 100%    Text2Text generation [█▒▒▒▒▒▒▒▒](https://github.com/your-username) 10%
+Automatic Speech Recognition [█████████▒](https://github.com/your-username) Speech2Text generation [███▒▒▒▒▒▒](https://github.com/your-username) 
+
+
 
 
 # `My Stacks`
