@@ -13,24 +13,24 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-# `Skilled`
+# `Expertise`
 
 Computer Vision
-[████████▒▒](https://github.com/your-username) 89%
+[████████▒▒](https://github.com/your-username) ✔️  70%
+
+Tabular
+[████████▒▒](https://github.com/your-username) ✔️  89%
 
 Deep Learning
-[██████████](https://github.com/your-username) 100%
+[██████████](https://github.com/your-username) ✔️  100%
 
 
 Natural Language Processing
-[██▒▒▒▒▒▒▒](https://github.com/your-username) 10%
+[██▒▒▒▒▒▒▒](https://github.com/your-username) ✔️  10% 「 Translation [███████▒▒▒](https://github.com/your-username)    Text2Text generation [█▒▒▒▒▒▒▒▒](https://github.com/your-username) 」
 
-Translation [██████████](https://github.com/your-username)    Text2Text generation [█▒▒▒▒▒▒▒▒](https://github.com/your-username) 
 
 Audio 
-[███▒▒▒▒▒▒](https://github.com/your-username) 30%
-
-Automatic Speech Recognition [█████████▒](https://github.com/your-username) Speech2Text generation [███▒▒▒▒▒▒](https://github.com/your-username) 
+[███▒▒▒▒▒▒](https://github.com/your-username) ✔️  30% 「 Automatic Speech Recognition [█████████▒](https://github.com/your-username) Speech2Text generation [███▒▒▒▒▒▒](https://github.com/your-username) 」
 
 
 
