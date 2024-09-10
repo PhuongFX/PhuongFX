@@ -13,6 +13,26 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # `My Stacks`
+
+<div>
+  <p>Computer Vision</p>
+  <div style="background-color: #e0e0e0; border-radius: 10px; overflow: hidden;">
+    <div style="background-color: #4caf50; width: 89%; border-radius: 10px; height: 20px;"></div>
+  </div>
+  <p>Deep Learning</p>
+  <div style="background-color: #e0e0e0; border-radius: 10px; overflow: hidden;">
+    <div style="background-color: #4caf50; width: 100%; border-radius: 10px; height: 20px;"></div>
+  </div>
+  <p>Audio</p>
+  <div style="background-color: #e0e0e0; border-radius: 10px; overflow: hidden;">
+    <div style="background-color: #4caf50; width: 30%; border-radius: 10px; height: 20px;"></div>
+  </div>
+  <p>Natural Language Processing</p>
+  <div style="background-color: #e0e0e0; border-radius: 10px; overflow: hidden;">
+    <div style="background-color: #4caf50; width: 10%; border-radius: 10px; height: 20px;"></div>
+  </div>
+</div>
+
 > ### 💾 Programming Languages
   
 <div>
