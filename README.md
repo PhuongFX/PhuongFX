@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-# `👩‍💻 Expertise`
+# `Expertise`
 
 Computer Vision
 [████████▒▒](https://github.com/your-username) ✔️  70%
