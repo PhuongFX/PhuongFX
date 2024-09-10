@@ -78,7 +78,7 @@ You can click the Preview link to take a look at your changes.
 <div>
   <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img alt="Vercel" src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img alt="HF" src="https://img.shields.io/badge/hugging%20spaces-%23FF9D00?style=for-the-badge&logo=huggingface&logoColor=%234c5253&color=%23FF9D00">
   <img alt="Streamlit" src="https://img.shields.io/badge/streamlit-brightgreen?style=for-the-badge&logo=streamlit&color=green&cacheSeconds=https%3A%2F%2Fstreamlit.io%2F"/>
   
   <img alt="Jenkins" src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
