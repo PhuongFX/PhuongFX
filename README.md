@@ -35,7 +35,7 @@ Audio
 
 
 
-# `👩‍💻 My Stacks`
+# `🛠 My Stacks`
 > ### Programming Languages
   
 <div>
