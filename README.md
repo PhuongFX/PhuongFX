@@ -11,8 +11,8 @@ PhuongFX/PhuongFX is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-
-## 🖥💻💾 Programming Languages known:
+# `My Stacks`
+> ### 💾 Programming Languages
   
 <div>
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
@@ -25,11 +25,11 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-## 🛠🔧⚙ Techs, Frameworks and Tools I work on:
+> ### 🛠 Techs, Frameworks & Tools
 
 <div>
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="Static Badge" src="https://img.shields.io/badge/JEKYLL-floralwhite?style=for-the-badge&logo=jekyll&logoColor=%23db5a6b">
+  <img alt="Jekyll" src="https://img.shields.io/badge/JEKYLL-floralwhite?style=for-the-badge&logo=jekyll&logoColor=%23db5a6b">
 </div>
 
 
@@ -73,7 +73,7 @@ You can click the Preview link to take a look at your changes.
   <img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/> -->
 
 
-### 🧮💿💽 Hosting, DevOps and Data stores:
+> ### 🧮 Hosting & Data Storage
 <div>
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
   <img alt="HF" src="https://img.shields.io/badge/hugging%20spaces-%23FF9D00?style=for-the-badge&logo=huggingface&logoColor=%234c5253&color=%23FF9D00">
@@ -86,7 +86,7 @@ You can click the Preview link to take a look at your changes.
 </div>
   
 
-  ### 🖥️ My Projects
+# `🖥️Projects`
 
 | Science                                                                                                                                                                                                             | About                                                                                                                                                                                                                            |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
