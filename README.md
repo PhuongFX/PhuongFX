@@ -79,11 +79,11 @@ You can click the Preview link to take a look at your changes.
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
   <img alt="HF" src="https://img.shields.io/badge/hugging%20spaces-%23FF9D00?style=for-the-badge&logo=huggingface&logoColor=%234c5253&color=%23FF9D00">
   <img alt="Streamlit" src="https://img.shields.io/badge/streamlit-brightgreen?style=for-the-badge&logo=streamlit&color=green&cacheSeconds=https%3A%2F%2Fstreamlit.io%2F"/>
-  
-  <img alt="Jenkins" src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/github-%23FF9D00?style=for-the-badge&logo=github&logoColor=white&color=%23181717">
+
+<!--
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/> -->
 </div>
   
 
