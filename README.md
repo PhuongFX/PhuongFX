@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-### 🖥💻💾 Programming Languages known:
+### <p style="text-shadow: 4px 4px 2px rgba(219,90,107, 0.8);">🖥💻💾 Programming Languages known:</p> 🖥💻💾 Programming Languages known:
   
 <div>
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
