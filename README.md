@@ -1,11 +1,12 @@
-### 𝄃𝄃𝄂𝄀𝄁 Hi, I’m `Phuong Phan`, a Machine learning engineer and AI enthusiast.
+### 
 
-**"Empowering innovation through AI and ML"**
+**"𝄃𝄃𝄂𝄀𝄁 Hi, I’m `Phuong Phan`"**
 =====================================
 
+### A Machine learning engineer and AI enthusiast.
 > The intersection of AI and ML is an area that I am extremely passionate about, and I am constantly amazed by the breakthroughs and innovations that are emerging in this space.
-- 👀 I’m interested and have experience in Deep Learning & Computer Vision.
-- 🌱 I’m currently applying machine learning and AI concepts to most of my projects.
+
+- 🌱 I’m currently focus on Deep Learning & Computer Vision and applying those concepts to most of my projects.
 
 - 📫 How to reach me [![Static Badge](https://img.shields.io/badge/website-%23EB4A5F?style=for-the-badge&logoColor=white)]
 
