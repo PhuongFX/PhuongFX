@@ -12,27 +12,26 @@ PhuongFX/PhuongFX is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
+
+# `Skilled`
+
+Computer Vision
+[████████▒▒](https://github.com/your-username) 89%
+
+Deep Learning
+[██████████](https://github.com/your-username) 100%
+
+
+Natural Language Processing
+[██▒▒▒▒▒▒▒](https://github.com/your-username) 10%
+
+
+Automatic Speech Recognition [█████████▒](https://github.com/your-username) Speech2Text generation [███▒▒▒▒▒▒](https://github.com/your-username) 30%
+
+Translation [██████████](https://github.com/your-username) 100%    Text2Text generation [█▒▒▒▒▒▒▒▒](https://github.com/your-username) 10%
+
+
 # `My Stacks`
-
-<div>
-  <p>Computer Vision</p>
-  <div style="background-color: #e0e0e0; border-radius: 10px; overflow: hidden; width: 100px;">
-    <div style="background-color: #4caf50; width: 89%; border-radius: 10px; height: 20px;"></div>
-  </div>
-  <p>Deep Learning</p>
-  <div style="background-color: #e0e0e0; border-radius: 10px; overflow: hidden; width: 100px;">
-    <div style="background-color: #4caf50; width: 100%; border-radius: 10px; height: 20px;"></div>
-  </div>
-  <p>Audio</p>
-  <div style="background-color: #e0e0e0; border-radius: 10px; overflow: hidden; width: 100px;">
-    <div style="background-color: #4caf50; width: 30%; border-radius: 10px; height: 20px;"></div>
-  </div>
-  <p>Natural Language Processing</p>
-  <div style="background-color: #e0e0e0; border-radius: 10px; overflow: hidden; width: 100px;">
-    <div style="background-color: #4caf50; width: 10%; border-radius: 10px; height: 20px;"></div>
-  </div>
-</div>
-
 > ### 💾 Programming Languages
   
 <div>
