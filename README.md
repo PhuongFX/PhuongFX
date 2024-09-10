@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Phuong Phan, a Machine learning engineer and AI enthusiast.
+### Hi, I’m Phuong Phan, a Machine learning engineer and AI enthusiast.
 - 👀 I’m interested and have experience in Deep Learning & Computer Vision.
 - 🌱 I’m currently applying machine learning and AI concepts to...
 - ✍️ My blog posts reflects most of my projects related to python and AI
