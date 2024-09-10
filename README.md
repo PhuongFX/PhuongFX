@@ -134,10 +134,5 @@ Audio
 | [Clustering Connoisseurs](https://github.com/PhuongFX/Wine)                                          | A Machine Learning system which accurately classify wines 🍷 based on their chemical profiles, and provide insights into the characteristics of different wine styles.. Using a combination of exploratory data analysis EDA 📊, data preprocessing, feature scaling 🔧, and K-Means 🔀 to clustering, and 📈visualization to identify patterns and relationships in the wine data.                                                                                                                   |
 | [Employee Management Program](https://github.com/PhuongFX/python3)                                          | A Python software To Manage Employee Profile & Salary. With functions to Edit [Departments & Employee] profiles and Display net salaries. Combination of personal tax, late-coming days calculating and data parsing|re-serializing codes.                                                                                                                 |
                                                                                          
-                                                                
-| OSINT/ Cyber-security/Bot                                                                           | About                                                           |
-|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
-| [Anonymous Telebot](https://github.com/Jumitti/Anonymous_Telebot)                                   | Just an Anonymous Telegram Bot                                  |
-| [Fancy IR Remote for Flipper Zero](https://github.com/Jumitti/flipperzero-firmware-Fancy_IR_Remote) | Flipper Zero firmware source code for Universal Remote IR macro |
-| [UndetectableInstaBot](https://github.com/Jumitti/UndetectableInstaBot)                             | An undetectable bot for Instagram for likes and comments        |
+                                                          
 
