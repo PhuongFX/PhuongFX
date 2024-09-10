@@ -30,6 +30,7 @@ You can click the Preview link to take a look at your changes.
 
 <div>
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/JEKYLL-floralwhite?style=for-the-badge&logo=jekyll&logoColor=%23db5a6b">
 </div>
 
 
