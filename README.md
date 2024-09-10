@@ -5,7 +5,7 @@
 
 - 📫 How to reach me [![Static Badge](https://img.shields.io/badge/website-%23EB4A5F?style=for-the-badge&logoColor=white)]
 
-- 😄 Pronouns: ...
+- 😄 Pronouns: She/Her
 
 <!---
 PhuongFX/PhuongFX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
