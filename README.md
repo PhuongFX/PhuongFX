@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently focus on Deep Learning & Computer Vision and applying those concepts to most of my projects.
 
-- 📫 How to reach me [![Static Badge](https://img.shields.io/badge/website-%23EB4A5F?style=for-the-badge&logoColor=white)]
+- 📫 How to reach me [![Static Badge](https://img.shields.io/badge/website-%23EB4A5F?style=for-the-badge&logoColor=white)](https://phuongfx.github.io/blog)
 
 - 😄 Pronouns: She/Her
 
