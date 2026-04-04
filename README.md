@@ -3,10 +3,10 @@
 **"𝄃𝄃𝄂𝄀𝄁 Hi, I’m `Phuong Phan`"**
 =====================================
 
-### A Machine learning engineer and AI enthusiast.
+### An AI Product Manager & Architect dedicated to building human-centric software.
 > The intersection of AI and ML is an area that I am extremely passionate about, and I am constantly amazed by the breakthroughs and innovations that are emerging in this space.
 
-- 🌱 I’m currently focus on Deep Learning & Computer Vision and applying those concepts to most of my projects.
+- 🌱 I’m currently building R-TU—a privacy-first, CBT-aligned AI mirror. My focus is on end-to-end AI Product Management, LLM prompt architecture, and creating digital tools that actively reduce cognitive load.
 
 - 📫 How to reach me [![Static Badge](https://img.shields.io/badge/website-%23EB4A5F?style=for-the-badge&logoColor=white)](https://phuongfx.github.io/blog)
 
