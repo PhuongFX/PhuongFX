@@ -3,10 +3,10 @@
 **"𝄃𝄃𝄂𝄀𝄁 Hi, I’m `Phuong Phan`"**
 =====================================
 
-### An AI Product Manager & Architect dedicated to building human-centric software.
+### An AI Product Builder & Architect dedicated to building human-centric software.
 > The intersection of AI and ML is an area that I am extremely passionate about, and I am constantly amazed by the breakthroughs and innovations that are emerging in this space.
 
-- 🌱 I’m currently building R-TU—a privacy-first, CBT-aligned AI mirror. My focus is on end-to-end AI Product Management, LLM prompt architecture, and creating digital tools that actively reduce cognitive load.
+- 🌱 I’m currently building R-TU—a privacy-first, CBT-aligned AI mirror. My focus is on end-to-end AI Product Management, agentic workflows architecture, and creating digital tools that actively reduce cognitive load.
 
 - 📫 How to reach me [![Static Badge](https://img.shields.io/badge/website-%23EB4A5F?style=for-the-badge&logoColor=white)](https://phuongfx.github.io/blog)
 
