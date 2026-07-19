@@ -49,7 +49,6 @@ You can click the Preview link to take a look at your changes.
 <div>
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
-  <img alt="Gemini API" src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white"/>
   <img alt="Streamlit" src="https://img.shields.io/badge/streamlit-brightgreen?style=for-the-badge&logo=streamlit&color=green"/>
 </div>
 
@@ -69,7 +68,6 @@ You can click the Preview link to take a look at your changes.
 > ### Cloud Architecture & Infrastructure
 <div>
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-%23FF9D00?style=for-the-badge&logo=huggingface&logoColor=%234c5253&color=%23FF9D00"/>
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23FF9D00?style=for-the-badge&logo=github&logoColor=white&color=%23181717"/>
